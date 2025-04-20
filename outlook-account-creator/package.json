@@ -1,0 +1,12 @@
+{
+  "name": "outlook-account-creator",
+  "version": "1.0.0",
+  "description": "Automates Outlook account creation with Puppeteer",
+  "main": "createAccount.js",
+  "scripts": {
+    "start": "node createAccount.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.7.4"
+  }
+}
